@@ -1,0 +1,43 @@
+.TodoForm{
+  
+  color:#fff ;
+  padding:2px;
+   border-radius: 10px;
+   margin-bottom: 1 rem;
+   cursor: pointer;
+   margin: 1% 30%;
+ 
+ }
+ .todo-input ::placeholder{
+  color:#ffffff4d ;
+  
+ }
+ .todo-btn{
+  background:#8758ff ;
+  color:#fff ;
+  border:none ;
+  padding: 0.55rem;
+  cursor:pointer ;
+ }
+ .Todo{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background:#8758ff ;
+ color:#fff ;
+ padding:2px;
+  border-radius: 10px;
+  margin-bottom: 1 rem;
+  cursor: pointer;
+  margin: 1% 30%;
+
+ }
+ .fa-trash {
+  margin-left:0.75rem ;
+
+ }
+ .completed {
+  color: #c5aeff;
+  text-decoration: line-through;
+ }
+
